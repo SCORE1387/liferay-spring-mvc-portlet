@@ -12,7 +12,7 @@
 	</appender>
 	
 	<!-- Application Loggers -->
-	<logger name="au.com.redbarn.liferay.spring.mvc.portlet">
+	<logger name="tk.sekol.liferay.spring.mvc.portlet">
 		<level value="info" />
 	</logger>
 	
